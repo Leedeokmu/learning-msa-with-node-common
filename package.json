@@ -1,0 +1,11 @@
+{
+  "name": "@frfly_tickets/common",
+  "version": "1.0.0",
+  "description": "common modules for ticket project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
